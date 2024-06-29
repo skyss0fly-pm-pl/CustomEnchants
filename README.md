@@ -1,2 +1,3 @@
-# CustomEnchants
-Custom Enchants Plugin for Pocketmine (Not Associated with PiggyCEs, all enchants are different)
+# Welcome to CustomEnchants
+(Not to Be Confused with PiggyCustomEnchants)
+
