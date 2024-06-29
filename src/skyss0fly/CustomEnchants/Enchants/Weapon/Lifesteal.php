@@ -2,11 +2,10 @@
 
 namespace CustomEnchants\Lifesteal;
 
-use CustomEnchants\Enchants\EnchantData;
 use pocketmine\Player;
 use pocketmine\item\VanillaItems;
 
-final class Lifesteal extends EnchantData{
+final class Lifesteal {
 
 public function MaxLevel() : bool {
   return 5;
@@ -25,6 +24,5 @@ $item = $player->GetItemInHand();
 return false;
   }
       }
-
   
 }
